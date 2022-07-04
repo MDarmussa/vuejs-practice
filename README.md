@@ -30,7 +30,7 @@ vue add router
 npm i axios 
 
 
-sample 1: in App.vue -------------- 1
+### sample 1: in App.vue -------------- 1
 
 <template>
   <div id="app">
@@ -51,7 +51,7 @@ sample 1: in App.vue -------------- 1
 </script>
 
 
-sample 2 (search bar): App.vue ------------- 2
+### sample 2 (search bar): App.vue ------------- 2
 
 <template>
   <input type="text" v-model="input" placeholder="Search fruits..." />
@@ -124,7 +124,7 @@ input {
 }
 </style>
 
-sample 3 (search bar) ----------   3
+### sample 3 (search bar) ----------   3
 <template>
   <div id="app">
     <input v-model="searchQuery">
@@ -167,7 +167,7 @@ export default {
 
 
 
-sample 4 (using axios) ------------  4
+### sample 4 (using axios) ------------  4
 
 <template>
 <div class="mainDiv">
