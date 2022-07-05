@@ -1,9 +1,11 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
+    <router-link to="/home">Home</router-link> |
     <router-link to="/about">About</router-link>
+    <!-- router-link: is to generate a hyperlink for the navigation -->
   </nav>
-  <router-view/>
+  <router-view/> 
+  <!-- router-view: is to put the component that you navigate to here -->
 </template>
 
 <style>

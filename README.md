@@ -29,6 +29,20 @@ vue add router
 ### To install axios
 npm i axios 
 
+### Vue VSCode Snippets
+ to run a snippet: vbase
+
+ ### To add vuex
+ vue add vuex
+
+
+ ### Resources
+ https://router.vuejs.org/guide/#router-view
+ https://cli.vuejs.org/guide/installation.html
+ https://vuex.vuejs.org/#what-is-a-state-management-pattern
+ 
+
+
 
 ### sample 1: in App.vue -------------- 1
 
