@@ -6,7 +6,7 @@
     <SearchBar2 />
     <!-- <LocalDataVue /> -->
     <AxiosComp2Vue />
-    <AxiosComp />
+    <!-- <AxiosComp /> -->
   </div>
 </template>
 
@@ -14,8 +14,8 @@
 import TestComp from '@/components/TestComp.vue'
 import SearchBarVue from '@/components/SearchBar.vue'
 import SearchBar2 from '@/components/SearchBar2.vue'
-import AxiosComp from '@/components/AxiosComp.vue'
-import AxiosComp2Vue from '@/components/AxiosComp2.vue'
+// import AxiosComp from '@/components/AxiosComp.vue'
+// import AxiosComp2Vue from '@/components/AxiosComp2.vue'
 // import LocalDataVue from '@/components/LocalData.vue'
 
 export default {
@@ -24,8 +24,8 @@ export default {
     TestComp,
     SearchBarVue,
     SearchBar2,
-    AxiosComp2Vue,
-    AxiosComp,
+    // AxiosComp2Vue,
+    // AxiosComp,
     // LocalDataVue
   }
 }

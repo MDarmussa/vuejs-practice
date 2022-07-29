@@ -6,6 +6,7 @@
     <div v-for="r of resultQuery" :key="r.id">{{r.title}}</div>
   </div>
 </template>
+
 <script>
 export default {
   name: "App",

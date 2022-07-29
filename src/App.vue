@@ -1,8 +1,7 @@
 <template>
   <nav>
     <router-link to="/home">Home</router-link> |
-    <router-link to="/about">About</router-link> |
-    <router-link to="/weather">Weather</router-link>
+    <router-link to="/about">About</router-link>
     <!-- router-link: is to generate a hyperlink for the navigation -->
   </nav>
   <router-view/> 
